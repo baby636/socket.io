@@ -61,7 +61,7 @@
     "eslint": "^7.14.0",
     "eslint-config-prettier": "^6.11.0",
     "expect.js": "0.3.1",
-    "mocha": "^3.5.3",
+    "mocha": "^4.0.0",
     "nyc": "^15.1.0",
     "prettier": "^2.2.0",
     "rimraf": "^3.0.2",
