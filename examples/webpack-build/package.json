@@ -16,6 +16,6 @@
   },
   "devDependencies": {
     "strip-loader": "^0.1.2",
-    "webpack": "^2.6.1"
+    "webpack": "^5.94.0"
   }
 }
